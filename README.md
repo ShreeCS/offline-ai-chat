@@ -11,7 +11,7 @@ Works entirely on your machine using an Ollama model (default: `llama3.1:8b`). N
 
 ## Demo
 
-https://github.com/user-attachments/assets/6fdc964c-44b4-4e18-8227-d6bc24937d47
+https://github.com/user-attachments/assets/3af67d83-2afe-4a47-be46-85c48e53dec5
 
 ## Features
 
